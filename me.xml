@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE student PUBLIC "-//Portland State University//DTD CS410J Grade Book//EN" "http://www.cs.pdx.edu/~whitlock/dtds/gradebook.dtd">
+<student enrolled-section="undergraduate">
+<id>rclift</id>
+<firstName>Richard</firstName>
+<lastName>Clift</lastName>
+<email>rsclift99@gmail.com</email>
+<major>CS</major>
+<notes>
+<note>Richard Clift would like to learn Java</note>
+<note>Richard Clift has these comments: TTRPGs are fun</note>
+</notes>
+</student>
